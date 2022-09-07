@@ -9,6 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "country-flag-icons": "^1.5.5",
     "expo": "~46.0.9",
     "expo-splash-screen": "~0.16.2",
     "expo-status-bar": "~1.4.0",
